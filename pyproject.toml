@@ -1,0 +1,9 @@
+[project]
+name = "lineup-metrics"
+version = "0.0.1"
+description = "Camera-only surf lineup metrics scaffold"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.setuptools]
+packages = ["src"]

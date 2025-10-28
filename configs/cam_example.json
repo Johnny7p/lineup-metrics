@@ -1,0 +1,57 @@
+{
+  "cam_id": "cam_example",
+  "source": "./data/demos/sample.mp4",
+  "fps": 6,
+  "homography": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "lineup_polygon": [
+    [
+      100,
+      200
+    ],
+    [
+      540,
+      200
+    ],
+    [
+      560,
+      420
+    ],
+    [
+      90,
+      420
+    ]
+  ],
+  "shoreline_points": [
+    [
+      50,
+      450
+    ],
+    [
+      600,
+      430
+    ]
+  ],
+  "speed_px_s_min_planing": 30.0,
+  "min_ride_time_s": 1.0,
+  "direction_method": "shoreline",
+  "turns": {
+    "curvature_deg_min": 35,
+    "min_separation_s": 1.2
+  }
+}
