@@ -1,0 +1,9 @@
+[submodule "third_party/crowdfactor"]
+	path = third_party/crowdfactor
+	url = https://github.com/craigmulligan/crowdfactor
+[submodule "third_party/ai-wave-tracker"]
+	path = third_party/ai-wave-tracker
+	url = https://github.com/PaoloPiacenti/AI-wave-tracker
+[submodule "third_party/yolo_deepsort"]
+	path = third_party/yolo_deepsort
+	url = https://github.com/theAIGuysCode/yolov4-deepsort

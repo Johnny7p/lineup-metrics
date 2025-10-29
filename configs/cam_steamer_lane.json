@@ -1,0 +1,16 @@
+{
+  "cam_id": "steamer_lane",
+  "source": "./data/demos/steamer_lane_sample.mp4",
+  "fps": 6,
+
+  "lineup_polygon": [[260,380],[1240,360],[1280,640],[240,660]],
+
+  "shoreline_points": [[200,700],[1300,640]],
+
+  "speed_px_s_min_planing": 28.0,
+  "min_ride_time_s": 1.0,
+
+  "direction_method": "shoreline",
+
+  "turns": { "curvature_deg_min": 35, "min_separation_s": 1.2 }
+}
